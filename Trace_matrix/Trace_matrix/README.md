@@ -1,0 +1,1 @@
+A program that calculates a square matrix (5x5).

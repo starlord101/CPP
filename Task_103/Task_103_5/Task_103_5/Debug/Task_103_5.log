@@ -1,0 +1,3 @@
+﻿  Task_103_5.cpp
+D:\Projects\C++\Task_103_5\Task_103_5\Task_103_5.cpp(13,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Task_103_5.vcxproj -> D:\Projects\C++\Task_103_5\Debug\Task_103_5.exe

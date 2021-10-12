@@ -1,0 +1,3 @@
+﻿  Trace_matrix.cpp
+D:\Projects\C++\Trace_matrix\Trace_matrix\Trace_matrix.cpp(15,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Trace_matrix.vcxproj -> D:\Projects\C++\Trace_matrix\Debug\Trace_matrix.exe

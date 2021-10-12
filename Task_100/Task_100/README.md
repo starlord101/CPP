@@ -1,0 +1,1 @@
+A program that calculates the determinant of a square matrix. Enter four numbers separated by a space.

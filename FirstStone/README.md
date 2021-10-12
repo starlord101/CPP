@@ -1,0 +1,1 @@
+Determines the height of the stone rise if the stone is thrown at a speed V0.

@@ -1,0 +1,1 @@
+This program shows min and max of the random array (default N = 10 elements) between 10 and 89.

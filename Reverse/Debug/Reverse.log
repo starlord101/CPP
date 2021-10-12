@@ -1,0 +1,3 @@
+﻿  Reverse.cpp
+E:\Projects\C++\Reverse\Reverse.cpp(15,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Reverse.vcxproj -> E:\Projects\C++\Task_pointers\Debug\Reverse.exe

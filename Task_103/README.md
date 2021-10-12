@@ -1,0 +1,1 @@
+A real square matrix of order n is given. A program that Find the largest element in the shaded part of the matrix.
